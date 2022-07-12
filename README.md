@@ -6,3 +6,11 @@ Hotel bookings for the Berlin Hospitality Market
 - Identify features that predict the behavior of the rates in the future (for a fixed target date).
 - Identify the outstanding pricing decision of a single hotel.
 - Tools/Libraries: Pandas, scikit-learn, Plotly
+
+Below is the image obtained after plotting for each target date for one hotel:
+
+![alt text](https://github.com/ajits-github/DataScience_TimeSeries_HotelLARs/blob/main/Targetwise_data1.png) 
+
+Below is the image obtained after plotting for each hotel for one target date:
+
+![alt text](https://github.com/ajits-github/DataScience_TimeSeries_HotelLARs/blob/main/Hotelwise_data.png) 
